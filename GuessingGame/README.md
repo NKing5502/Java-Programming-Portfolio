@@ -1,14 +1,18 @@
- Overview
-This is a number-guessing game where the program generates a random number, and the user must guess it. The program gives feedback like "too high" or "too low" to help the user find the number.
+## Getting Started
 
- Features
-- Random number generation between 1 and 100.
-- User input validation.
-- Feedback after each guess (high/low).
-- Keeps track of the number of attempts.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-How to Run
-1. Navigate to the `GuessingGame/` folder.
-2. Compile the program:
-   ```bash
-   javac GuessingGame.java
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
