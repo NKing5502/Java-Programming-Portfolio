@@ -10,6 +10,4 @@ Features
 - Keeps track of the number of attempts.
 
 How to Run
-1. Compile the program:
-   ```bash
-   javac GuessingGame.java
+1. 
